@@ -1,0 +1,11 @@
+#...+....1....+....2....+....3....+.....4....+....5....+....6....+....7....+....8...
+# comparerc.toml - Define general and function specific settings for IDOCs
+# comparison (COMPARE program) (2026-08-01 bar8tl)
+#
+[general]
+home   = "c:\\users\\bar8tl\\onedri~1\\edi-rbna\\inboun~1\\"
+dbopt  = "~\\_edibb~1\\_tools\\compare\\extras\\edimaps.db"
+
+[compare]
+idcdr1 = "~\\_edibb~1\\_tools\\compare\\files\\"
+idcdr2 = "~\\_edibb~1\\_tools\\compare\\files\\"
